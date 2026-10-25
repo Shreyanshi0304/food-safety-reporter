@@ -18,6 +18,13 @@ A hackathon demo built with React + Vite, FastAPI, and SQLite.
 - Lab/inspection statuses are simulated. The app does not contact government authorities, vendors, or laboratories.
 - The demo role selector is NOT authentication. Do not deploy with real personal data.
 
+## Deployment
+# Backend has been deployed on:
+https://food-safety-reporter.onrender.com/
+
+# Frontend has been deployed on:
+https://food-safety-reporter-bl9q.vercel.app/
+
 ## Prerequisites
 - Node.js 20+ (18+ may work with a recent Vite version)
 - Python 3.10+
